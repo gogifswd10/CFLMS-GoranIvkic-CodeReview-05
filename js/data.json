@@ -1,0 +1,43 @@
+var movies = 
+  `[
+      {
+      "movieName": "The Shawshank Redemption",
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "poster": "img/shawshank.jpg"
+
+  }, {
+      "movieName": "The Godfather",
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "poster": "img/godfather.jpg"
+
+  }, {
+      "movieName": "The Godfather II",
+      "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+      "poster": "img/godfather2.jpg"
+  },
+   {
+      "movieName": "Pulp Fiction",
+      "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "poster": "img/pulpfiction.jpg"
+
+  }, {
+      "movieName": "Forrest Gump",
+      "description": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate and other historical events unfold through the perspective of an Alabama man with an IQ of 75, ...",
+      "poster": "img/forrestgump.jpg"
+
+  }, {
+      "movieName": "Goodfellas",
+      "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+      "poster": "img/goodfellas.jpg"
+  }, {
+      "movieName": "Joker",
+      "description": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime...",
+      "poster": "img/joker.jpg"
+  }, {
+      "movieName": "Taxi Driver",
+      "description": "A mentally unstable veteran works as a taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action by attempting to liberate a presidential campaign worker...",
+      "poster": "img/taxidriver.jpg"
+  }
+   
+
+]`;
